@@ -17,8 +17,8 @@
 
 ## 🔗 Links
 
-- **Repositório GitHub:** [https://github.com/seu-usuario/inventario-haskell](https://github.com/ltcmnk/inventarioHaskell)
-- **Ambiente Online (Repl.it):** [https://replit.com/@seu-usuario/inventario-haskell](https://replit.com/@seu-usuario/inventario-haskell)
+- **Repositório GitHub:** [https://github.com/ltcmnk/inventarioHaskell](https://github.com/ltcmnk/inventarioHaskell)
+- **Ambiente Online (GBD):** [https://onlinegdb.com/Jp68oVRat](https://onlinegdb.com/Jp68oVRat)
 
 ---
 
@@ -66,13 +66,6 @@ Main.hs
 3. Apague o conteúdo padrão do editor
 4. Cole o conteúdo completo de `Main.hs`
 5. Clique em **Run**
-
-### No Repl.it
-
-1. Acesse [https://replit.com/](https://replit.com/)
-2. Crie um novo Repl com template **Haskell**
-3. Substitua o conteúdo de `main.hs` pelo conteúdo de `Main.hs`
-4. Clique em **Run**
 
 ### Compilação local (GHC)
 
