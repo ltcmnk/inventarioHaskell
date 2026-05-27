@@ -1,0 +1,20 @@
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 001 | Teclado Mecanico | Qtd: 10 | Cat: Perifericos", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 002 | Mouse Sem Fio | Qtd: 15 | Cat: Perifericos", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 003 | Monitor 24pol | Qtd: 5 | Cat: Monitores", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 004 | Cabo HDMI 2m | Qtd: 30 | Cat: Cabos", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 005 | Webcam HD | Qtd: 8 | Cat: Perifericos", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 006 | SSD 480GB | Qtd: 12 | Cat: Armazenamento", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 007 | Memoria RAM 8GB | Qtd: 20 | Cat: Componentes", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 008 | Fonte 500W | Qtd: 7 | Cat: Componentes", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 009 | Hub USB 4 Portas | Qtd: 25 | Cat: Cabos", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:49.91389838 UTC, acao = Add, detalhes = "Adicionado: 010 | Headset Gamer | Qtd: 6 | Cat: Perifericos", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:22:54.043520591 UTC, acao = List, detalhes = "Listagem do inventario solicitada.", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:26:09.093241214 UTC, acao = Add, detalhes = "Adicionado: 011 | Teclado Sem Fio | Qtd: 7 | Cat: Perifericos", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:26:47.265905958 UTC, acao = Add, detalhes = "Adicionado: 012 | Impressora Laser | Qtd: 13 | Cat: Impressoras", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:27:23.03894017 UTC, acao = Add, detalhes = "Adicionado: 013 | Monitor Ultra HD | Qtd: 3 | Cat: Monitores", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:28:20.008264798 UTC, acao = List, detalhes = "Listagem do inventario solicitada.", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:28:31.303005409 UTC, acao = Remove, detalhes = "Tentativa remove ID=001", status = Falha "Erro: estoque insuficiente para '001'. Disponivel: 10, solicitado: 15."}
+LogEntry {timestamp = 2026-05-27 16:29:18.532298719 UTC, acao = Remove, detalhes = "Removido: 001 | Qtd removida: 2 | Restante: 8", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:29:34.904315807 UTC, acao = Report, detalhes = "Relatorio de auditoria solicitado.", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:30:54.182385962 UTC, acao = Update, detalhes = "Atualizado: 001 | Qtd anterior: 8 -> Nova qtd: 10", status = Sucesso}
+LogEntry {timestamp = 2026-05-27 16:31:09.463078057 UTC, acao = List, detalhes = "Listagem do inventario solicitada.", status = Sucesso}
